@@ -1,0 +1,13 @@
+$ git pull
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 930 bytes | 0 bytes/s, done.
+From https://github.com/SwapnilPadekar/gitTestRepo
+   317a3ce..f2b9f37  main       -> origin/main
+Updating 317a3ce..f2b9f37
+Fast-forward
+ demo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 demo.txt
